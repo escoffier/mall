@@ -1,2 +1,2 @@
 # mall
-event-driven architecture
+event-driven architecture demos
